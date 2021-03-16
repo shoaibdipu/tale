@@ -2,7 +2,6 @@
 layout: post
 title: "The Mystery of the Filler Post"
 author: "Chester"
-tags: Tale
 published : false
 ---
 
