@@ -8,12 +8,12 @@ published : true
 
 If you are interested in building an Academic Site, you may check these templates : 
 
-| <https://github.com/jonbarron/website> | <br/>
-
-| <https://startbootstrap.com/theme/resume> | <br/>
-
-| <https://themes.gohugo.io/academic> | <br>
-
+| <https://github.com/jonbarron/website> | 
+| -------------------------------------- |
+| <https://startbootstrap.com/theme/resume> |
+| -------------------------------------- |
+| <https://themes.gohugo.io/academic> |
+| -------------------------------------- |
 | <https://github.com/hydecorp/hydejack> | <br>
 
 | <https://github.com/ojroques/hugo-researcher> | <br>
