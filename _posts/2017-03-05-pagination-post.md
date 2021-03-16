@@ -2,7 +2,6 @@
 layout: post
 title: "Pagination Post"
 author: "Chester"
-tags: Tale
 published : false
 ---
 
