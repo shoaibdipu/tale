@@ -8,47 +8,44 @@ published : true
 
 If you are interested in building an Academic Site, you may check these templates : 
 
-<ul>
+| <https://github.com/jonbarron/website> | <br>
 
-<li> <https://github.com/jonbarron/website> </li>
+| <https://startbootstrap.com/theme/resume> | <br>
 
-<li> <https://startbootstrap.com/theme/resume> </li>
+| <https://themes.gohugo.io/academic> | <br>
 
-<li> <https://themes.gohugo.io/academic> </li>
+| <https://github.com/hydecorp/hydejack> | <br>
 
-<li> <https://github.com/hydecorp/hydejack> </li>
+| <https://github.com/ojroques/hugo-researcher> | <br>
 
-<li> <https://github.com/ojroques/hugo-researcher> </li>
+| <https://github.com/alshedivat/al-folio> | <br>
 
-<li> <https://github.com/alshedivat/al-folio> </li>
+| <http://jemdoc.jaboc.net> | <br>
 
-<li> <http://jemdoc.jaboc.net> </li>
+| <https://github.com/techfolios/template> | <br>
 
-<li> <https://github.com/techfolios/template> </li>
+| <https://github.com/cowboysmall-tools/hugo-devresume-theme> | <br>
 
-<li> <https://github.com/cowboysmall-tools/hugo-devresume-theme> </li>
+| <https://github.com/hadisinaee/avicenna> | <br>
 
-<li> <https://github.com/hadisinaee/avicenna> </li>
+| <https://github.com/naro143/hugo-coder-portfolio> | <br>
 
-<li> <https://github.com/naro143/hugo-coder-portfolio> </li>
+| <https://github.com/domoritz/domoritz.github.io> | <br>
 
-<li> <https://github.com/domoritz/domoritz.github.io> </li>
+| <https://github.com/jpkli/jpkli.github.io> | <br>
 
-<li> <https://github.com/jpkli/jpkli.github.io> </li>
+| <https://github.com/arvind/arvind.github.io> | <br>
 
-<li> <https://github.com/arvind/arvind.github.io> </li>
+| <https://github.com/abhshkdz/abhshkdz.github.io> | <br>
 
-<li> <https://github.com/abhshkdz/abhshkdz.github.io> </li>
+| <https://github.com/holtzy/Homepage> | <br>
 
-<li> <https://github.com/holtzy/Homepage> </li>
+| <https://github.com/aoleson/aoleson.github.io> | <br>
 
-<li> <https://github.com/aoleson/aoleson.github.io> </li>
+| <https://github.com/safinahali/safinahali.github.io> | <br>
 
-<li> <https://github.com/safinahali/safinahali.github.io> </li>
+| <https://github.com/dev10110/dev10110.github.io> | <br>
 
-<li> <https://github.com/dev10110/dev10110.github.io> </li>
+| <https://github.com/hemangsk/Gravity> | 
 
-<li> <https://github.com/hemangsk/Gravity> </li>
-
-</ul>
 
