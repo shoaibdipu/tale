@@ -25,10 +25,10 @@ I was admitted as a regular/transfer student in the __Undergraduate__ Program of
 
 এছাড়া Applicant Information এর একটা অংশ এভাবে ফিল-আপ করবেন : <br>
 
-Name of the degree : __Bachelor of Science__
-Major : __Computer Science and Engineering__
-Second Major (if any) : থাকলে লিখবেন। না থাকলে __N/A__ লিখবেন।
-Minor (if any) : থাকলে লিখবেন। না থাকলে __N/A__ লিখবেন।
+Name of the degree : __Bachelor of Science__ <br>
+Major : __Computer Science and Engineering__ <br>
+Second Major (if any) : থাকলে লিখবেন। না থাকলে __N/A__ লিখবেন। <br>
+Minor (if any) : থাকলে লিখবেন। না থাকলে __N/A__ লিখবেন। <br>
 
 __II.__ আপনার প্রিভিয়াস অ্যাকাডেমিক সার্টিফিকেট (SSC-HSC / O-A Level) স্ক্যান করবেন। ট্রান্সক্রিপ্ট দিতে হবে কিনা শিউর না। (আমি সার্টিফিকেট এর সাথে ট্রান্সক্রিপ্ট ও সাবমিট করেছিলাম।)
 
